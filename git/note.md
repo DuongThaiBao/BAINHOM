@@ -2,7 +2,8 @@
 Repository(repo)
 branch name
 conflict
-
+local
+remote
 #comment
 -git init
 -get status
