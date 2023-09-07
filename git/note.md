@@ -1,6 +1,7 @@
 #term 
 Repository(repo)
-branch name 
+branch name
+conflict
 
 #comment
 -git init
@@ -8,8 +9,6 @@ branch name
 -get add
 -git reset
 -git commit
--git log
--git log --oneline
--git checkout {branch name}
--git branch
--git checkout -b{branch name}
+-git merge {brach name}
+- git checkout -b {branch name}
+-git brach -d {branch name}
